@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'windsom-script';
+    src: url("../vendor/fonts/Wisdom%20Script%20AJ.otf");
+}
+body
+{
+
+    font-family: 'windsom-script';
+}
+.header
+{
+    color:black;
+    width: 100%;
+    text-align: center;
+    font-size:50px;
+}
+p{
+    font-size: 30px;
+    font-weight: 200;
+}
